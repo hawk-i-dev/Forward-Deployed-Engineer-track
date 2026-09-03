@@ -45,12 +45,6 @@ Success metric: reduce triage time by 40%
 4. How to convert a business problem into technical scope.
 5. How to define version 1 without overengineering.
 
-Use these repo files today:
-
-- [Day 1 notes](</Users/donadulavenkataharikrishna/Documents/Lets Learn New/forward-deployed-engineer-learning/day-01-fde-basics/README.md:1>)
-- [Discovery questions](</Users/donadulavenkataharikrishna/Documents/Lets Learn New/forward-deployed-engineer-learning/day-01-fde-basics/discovery-questions.md:1>)
-- [Exercise](</Users/donadulavenkataharikrishna/Documents/Lets Learn New/forward-deployed-engineer-learning/day-01-fde-basics/exercise-support-ticket.md:1>)
-
 **Your Day 1 Task**
 Open the exercise and fill this:
 
